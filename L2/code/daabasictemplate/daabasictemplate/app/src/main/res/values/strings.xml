@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Labo 2</string>
+    <string name="welcome">Welcome to DAA!</string>
+    <string name="welcome_message">Bienvenue, %1$s!</string>
+    <string name="entree_prenom">Entrez votre prénom</string>
+    <string name="save">Sauver</string>
+    <string name="message_bienvenue">Bienvenue, veuillez entrer votre nom</string>
+    <string name="message_editer">Editer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

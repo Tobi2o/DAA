@@ -1,0 +1,112 @@
+Structure du dossier
+Le numéro de série du volume est 0E1C-2A02
+C:.
+|   output.txt
+|   
+\---daabasictemplate
+    \---daabasictemplate
+        |   .gitignore
+        |   build.gradle.kts
+        |   gradle.properties
+        |   gradlew
+        |   gradlew.bat
+        |   settings.gradle.kts
+        |   
+        +---.idea
+        |       .gitignore
+        |       .name
+        |       compiler.xml
+        |       deploymentTargetSelector.xml
+        |       gradle.xml
+        |       kotlinc.xml
+        |       migrations.xml
+        |       misc.xml
+        |       vcs.xml
+        |       
+        +---app
+        |   |   .gitignore
+        |   |   build.gradle.kts
+        |   |   proguard-rules.pro
+        |   |   
+        |   \---src
+        |       +---androidTest
+        |       |   \---java
+        |       |       \---ch
+        |       |           \---heigvd
+        |       |               \---iict
+        |       |                   \---daa
+        |       |                       \---template
+        |       |                               ExampleInstrumentedTest.kt
+        |       |                               
+        |       +---main
+        |       |   |   AndroidManifest.xml
+        |       |   |   
+        |       |   +---java
+        |       |   |   \---ch
+        |       |   |       \---heigvd
+        |       |   |           \---iict
+        |       |   |               \---daa
+        |       |   |                   \---template
+        |       |   |                           MainActivity.kt
+        |       |   |                           
+        |       |   \---res
+        |       |       +---drawable
+        |       |       |       ic_launcher_background.xml
+        |       |       |       ic_launcher_foreground.xml
+        |       |       |       
+        |       |       +---layout
+        |       |       |       activity_main.xml
+        |       |       |       
+        |       |       +---mipmap-anydpi-v26
+        |       |       |       ic_launcher.xml
+        |       |       |       ic_launcher_round.xml
+        |       |       |       
+        |       |       +---mipmap-hdpi
+        |       |       |       ic_launcher.webp
+        |       |       |       ic_launcher_round.webp
+        |       |       |       
+        |       |       +---mipmap-mdpi
+        |       |       |       ic_launcher.webp
+        |       |       |       ic_launcher_round.webp
+        |       |       |       
+        |       |       +---mipmap-xhdpi
+        |       |       |       ic_launcher.webp
+        |       |       |       ic_launcher_round.webp
+        |       |       |       
+        |       |       +---mipmap-xxhdpi
+        |       |       |       ic_launcher.webp
+        |       |       |       ic_launcher_round.webp
+        |       |       |       
+        |       |       +---mipmap-xxxhdpi
+        |       |       |       ic_launcher.webp
+        |       |       |       ic_launcher_round.webp
+        |       |       |       
+        |       |       +---values
+        |       |       |       colors.xml
+        |       |       |       ic_launcher_background.xml
+        |       |       |       strings.xml
+        |       |       |       themes.xml
+        |       |       |       
+        |       |       +---values-night
+        |       |       |       themes.xml
+        |       |       |       
+        |       |       \---xml
+        |       |               backup_rules.xml
+        |       |               data_extraction_rules.xml
+        |       |               
+        |       \---test
+        |           \---java
+        |               \---ch
+        |                   \---heigvd
+        |                       \---iict
+        |                           \---daa
+        |                               \---template
+        |                                       ExampleUnitTest.kt
+        |                                       
+        \---gradle
+            |   libs.versions.toml
+            |   
+            \---wrapper
+                    gradle-wrapper.jar
+                    gradle-wrapper.properties
+                    

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mon lecteur de code-barres</string>
+    <string name="welcome">Welcome to DAA!</string>
+    <string name="scanner">Scanner</string>
+    <string name="scannez_un_code_barres">Scannez un code-barres...</string>
+</resources>

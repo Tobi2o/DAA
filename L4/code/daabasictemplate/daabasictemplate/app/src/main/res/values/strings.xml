@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Labo 4</string>
+    <string name="note_icon">Note icon</string>
+
+    <string name="sort_action">TRIER</string>
+    <string name="sort_by_creation_date">Creation date</string>
+    <string name="sort_by_eta">ETA</string>
+    <string name="action_generate">Generate</string>
+    <string name="action_delete_all">Delete all</string>
+    <string name="button_delete">Delete</string>
+    <string name="icon_schedule_description">Icon confirming a schedule</string>
+    <string name="icon_note_description">Icon of a note type</string>
+    <string name="notes_fragment_title">My notes</string>
+    <string name="schedule_late">Late</string>
+    <string name="edit_label">EDIT</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="na">N/A</string>
+    <string name="due_date_label">Due date</string>
+    <string name="no_note">No note</string>
+
+    <plurals name="schedule_minute">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+
+    <plurals name="schedule_hour">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+
+    <plurals name="schedule_day">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+
+    <plurals name="schedule_week">
+        <item quantity="one">%d week</item>
+        <item quantity="other">%d weeks</item>
+    </plurals>
+
+    <plurals name="schedule_month">
+    <item quantity="one">%d month</item>
+    <item quantity="other">%d months</item>
+    </plurals>
+</resources>
